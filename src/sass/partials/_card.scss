@@ -1,0 +1,14 @@
+.card-heading {
+    background: $colour-primary;
+    padding: 1rem;
+    color: white;
+    border-radius: 10px 10px 0 0;
+    font-size: 24px;
+}
+
+.card-body {
+    background: white;
+    padding: 2rem;
+    border-radius: 0 0 10px 10px;
+    margin-bottom: 2rem;
+}
